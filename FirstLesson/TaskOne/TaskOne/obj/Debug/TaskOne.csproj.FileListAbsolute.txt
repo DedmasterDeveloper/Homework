@@ -1,0 +1,7 @@
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\bin\Debug\TaskOne.exe
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\bin\Debug\TaskOne.pdb
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\obj\Debug\TaskOne.csprojAssemblyReference.cache
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\obj\Debug\TaskOne.exe
+C:\Users\misha\Desktop\geekbrains\Основы языка С#\Homework\FirstLesson\TaskOne\TaskOne\obj\Debug\TaskOne.pdb
