@@ -15,7 +15,7 @@ namespace TaskTwo
             double h = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите ваш вес: ");
             double m = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine($"ИМТ: {bodyMassIndex(h, m)}");
+            Console.WriteLine("ИМТ: {0}", bodyMassIndex(h,m));
             Console.WriteLine("Для выхода нажмите Enter");
             Console.ReadLine();
         }
