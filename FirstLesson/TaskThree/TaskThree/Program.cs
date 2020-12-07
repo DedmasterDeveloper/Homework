@@ -19,6 +19,8 @@ namespace TaskThree
             Console.Write("Введите y2: ");
             double y2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("ответ: {0:2f}", distance(x1,x2,y1,y2));
+            Console.WriteLine("Для завершения нажмите Enter");
+            Console.ReadLine();
 
         }
 
