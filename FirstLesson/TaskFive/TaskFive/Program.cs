@@ -24,6 +24,7 @@ namespace TaskFive
             var width = Console.WindowWidth;
             var padding = width / 2 + outString.Length / 2;
             Console.WriteLine("{0," + padding + "}", outString);
+            Console.WriteLine("{0," + padding + "}", "Для закрытия нажмите Enter");
             Console.ReadLine();
         }
     }
